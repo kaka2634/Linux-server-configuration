@@ -247,4 +247,4 @@ host    all             all             ::1/128                 md
 
 Thank for [rrjoson](https://github.com/rrjoson/udacity-linux-server-configuration) best README helping me a lot.
 
-PS. Login function is not working because I have add origin http://182.254.131.23 to google app api. This function would be done in furture.
+PS. Login function is not working because I have add origin http://182.254.131.23 to google app api. This function would be done in furture. If you know how to do this please help me. Google said it need .com address rather than ip addresss.
